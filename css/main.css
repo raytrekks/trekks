@@ -3458,7 +3458,8 @@ html.cl-loaded .home-content__main {
  
 @media only screen and (max-width:600px) {
     .contact-button {
-    position: static;
+        position: static;
+        padding-top: 1.5rem;
     }
  
     .s-contact {
