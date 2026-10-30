@@ -3460,6 +3460,7 @@ html.cl-loaded .home-content__main {
     .contact-button {
         position: static;
         padding-top: 1.5rem;
+        margin-top: 1.5rem;
     }
  
     .s-contact {
