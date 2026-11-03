@@ -2559,6 +2559,11 @@ html.cl-loaded .home-content__main {
     line-height: 1;
     color: #F26522;
 }
+
+.volcano {
+    max-width: 100%;
+    height: auto;
+}
  
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -2582,6 +2587,11 @@ html.cl-loaded .home-content__main {
 @media only screen and (max-width:500px) {
     .services-list .item-service::before {
         font-size: 3.3rem;
+    }
+
+    .volcano {
+        max-width: 33%;
+        height: auto;
     }
  
 }
