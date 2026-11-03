@@ -2500,7 +2500,7 @@ html.cl-loaded .home-content__main {
     padding-top: 18rem;
     padding-bottom: 18rem;
     background-color: #151515;
-    background-image: url(../images/volcanotrekks.jpg);
+    background-image: url(../images/tagtrekks.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -2600,7 +2600,7 @@ html.cl-loaded .home-content__main {
     .s-services {
         padding-top: 24rem;
         padding-bottom: 24rem;
-        background-image: url(../images/volcanotrekkscrop.jpg);
+        background-image: url(../images/tagtrekkscrop.jpg);
     }
  
 }
