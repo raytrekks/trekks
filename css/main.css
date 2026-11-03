@@ -2505,7 +2505,9 @@ html.cl-loaded .home-content__main {
     background-position: center center;
     background-size: cover;
     position: relative;
+ /*
     color: rgba(255, 255, 255, 0.5);
+ */
 }
  
 .s-services::before {
@@ -2591,7 +2593,10 @@ html.cl-loaded .home-content__main {
     .services-list .item-service::before {
         font-size: 3.3rem;
     }
+ 
+}
 
+@media only screen and (max-width:450px) {
     .s-services {
         background-image: url(../images/volcanotrekkscrop.jpg);
     }
