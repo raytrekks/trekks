@@ -2500,6 +2500,7 @@ html.cl-loaded .home-content__main {
     padding-top: 18rem;
     padding-bottom: 18rem;
     background-color: #151515;
+    background-image: url(../images/volcanotrekks.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -2560,10 +2561,12 @@ html.cl-loaded .home-content__main {
     color: #F26522;
 }
 
+/*
 .volcano {
     max-width: 100%;
     height: auto;
 }
+*/
  
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -2589,8 +2592,8 @@ html.cl-loaded .home-content__main {
         font-size: 3.3rem;
     }
 
-    .volcano {
-        image: url(../images/volcanotrekkscrop.jpg);
+    .s-services {
+        background-image: url(../images/volcanotrekkscrop.jpg);
     }
  
 }
