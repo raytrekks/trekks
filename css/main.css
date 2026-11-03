@@ -2590,8 +2590,7 @@ html.cl-loaded .home-content__main {
     }
 
     .volcano {
-        max-width: 33%;
-        height: auto;
+        image: url(../images/volcanotrekkscrop.jpg);
     }
  
 }
