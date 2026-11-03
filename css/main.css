@@ -2502,7 +2502,6 @@ html.cl-loaded .home-content__main {
     background-color: #151515;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(../images/services-bg.jpg);
     background-size: cover;
     position: relative;
     color: rgba(255, 255, 255, 0.5);
@@ -2521,7 +2520,7 @@ html.cl-loaded .home-content__main {
 }
 
 .sub-service {
-    background-color: #283329;
+    background-color: #151515;
 }
  
 .s-services h4 {
