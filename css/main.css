@@ -2531,7 +2531,7 @@ html.cl-loaded .home-content__main {
     padding-top: 24rem;
     padding-bottom: 24rem;
     background-color: #151515;
-    background-image: url(../images/desktopvolcano.jpg);
+    background-image: url(../images/trekksxoakleydesktop.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -2630,7 +2630,7 @@ html.cl-loaded .home-content__main {
     }
  
     .s-services {
-        background-image: url(../images/mobilevolcano2.jpg);
+        background-image: url(../images/trekksxoakleymobile.jpg);
     }
  
 }
@@ -2639,7 +2639,7 @@ html.cl-loaded .home-content__main {
     .s-services {
         padding-top: 24rem;
         padding-bottom: 24rem;
-        background-image: url(../images/mobilevolcano2.jpg);
+        background-image: url(../images/trekksxoakleymobile.jpg);
     }
  
 }
