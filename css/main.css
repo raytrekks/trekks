@@ -2563,6 +2563,10 @@ html.cl-loaded .home-content__main {
     color: #F26522;
 }
 
+.backpack-button {
+    margin-top: 20rem;
+}
+
 /*
 .volcano {
     max-width: 100%;
