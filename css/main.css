@@ -2598,6 +2598,10 @@ html.cl-loaded .home-content__main {
         font-size: 3.3rem;
     }
  
+    .s-services {
+        background-image: url(../images/tagtrekkscrop.jpg);
+    }
+ 
 }
 
 @media only screen and (max-width:450px) {
