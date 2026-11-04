@@ -1241,7 +1241,10 @@ input::-moz-focus-inner {
 
 .display-1 {
   font-family: "Montserrat", sans-serif;
+ /*
   font-optical-sizing: auto;
+ */
+  font-size: 5rem;
   font-weight: 900;
   font-style: normal;
   margin-top: 4rem;
