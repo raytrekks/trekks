@@ -1231,7 +1231,7 @@ input::-moz-focus-inner {
     font-family: "Montserrat", sans-serif;
     font-weight: 900;
     font-size: 5rem;
-    line-height: 0.5;
+    line-height: 1.2;
     letter-spacing: -0.09rem;
     margin-top: 4rem;
     margin-bottom: 4.8rem;
