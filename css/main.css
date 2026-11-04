@@ -1257,7 +1257,8 @@ input::-moz-focus-inner {
 }
 
 .title-stretch {
-    transform: scaleY(1.4);
+    transform: scaleY(1.3);
+    transform-origin: bottom;
 }
 
 .display-5 {
