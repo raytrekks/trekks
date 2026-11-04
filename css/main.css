@@ -1229,7 +1229,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .display-1 {
     font-family: "Montserrat", sans-serif;
-    font-weight: 1500;
+    font-weight: 2000;
     font-size: 5rem;
     line-height: 1.1;
     letter-spacing: -0.09rem;
@@ -1244,7 +1244,7 @@ input::-moz-focus-inner {
 .display-5 {
     font-family: "Montserrat", sans-serif;
     font-weight: 100;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     line-height: 1.1;
     letter-spacing: -0.09rem;
     margin-top: 4rem;
@@ -1252,7 +1252,7 @@ input::-moz-focus-inner {
 }
  
 .subhead {
-    font-family: "Monsterrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 600;
     font-size: 1.6rem;
     line-height: 1.333;
