@@ -1227,6 +1227,7 @@ input::-moz-focus-inner {
 /* ------------------------------------------------------------------- 
  * ## display headings
  * ------------------------------------------------------------------- */
+/*
 .display-1 {
     font-family: "Montserrat", sans-serif;
     font-weight: 2000;
@@ -1236,8 +1237,9 @@ input::-moz-focus-inner {
     margin-top: 4rem;
     margin-bottom: 2.5rem;
 }
+*/
 
-.display-22 {
+.display-1 {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
