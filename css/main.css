@@ -2624,7 +2624,7 @@ html.cl-loaded .home-content__main {
  
 }
  
-@media only screen and (max-width:500px) {
+@media only screen and (max-width:600px) {
     .services-list .item-service::before {
         font-size: 3.3rem;
     }
