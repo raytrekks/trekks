@@ -2630,6 +2630,8 @@ html.cl-loaded .home-content__main {
     }
  
     .s-services {
+        padding-top: 24rem;
+        padding-bottom: 24rem;
         background-image: url(../images/trekksxoakleymobile.jpg);
     }
  
