@@ -3116,9 +3116,9 @@ html.cl-loaded .home-content__main {
 }
  
 .item-client img {
-    -webkit-transform: scale(0.85);
-    -ms-transform: scale(0.85);
-    transform: scale(0.85);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -3149,9 +3149,9 @@ html.cl-loaded .home-content__main {
     }
  
     .item-client img {
-        -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-        transform: scale(0.9);
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
     }
  
 }
