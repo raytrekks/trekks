@@ -3137,6 +3137,19 @@ html.cl-loaded .home-content__main {
     transform: scale(1.1);
     opacity: 1;
 }
+
+.image-container {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.image-container img {
+  flex: 1; /* Makes all images take up an equal share of the row */
+  width: 100%;
+  height: 300px; /* Or a relative height like aspect-ratio */
+  object-fit: cover; /* Prevents distortion if aspect ratios differ */
+}
  
 /* ------------------------------------------------------------------- 
  * responsive:
