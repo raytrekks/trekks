@@ -3183,6 +3183,12 @@ html.cl-loaded .home-content__main {
     .item-client:nth-last-child(-n+2) {
         border-bottom-style: none;
     }
+
+    .image-container {
+     flex-direction: column;
+     padding-left: 2rem;
+     padding-right: 2rem;
+    }
  
 }
  
