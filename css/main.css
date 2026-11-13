@@ -3161,7 +3161,7 @@ html.cl-loaded .home-content__main {
         border-style: none solid solid none;
     }
  
-    .item-client:nth-child(3n) {
+    .item-client:nth-child(2n) {
         border-style: none none solid none;
     }
  
