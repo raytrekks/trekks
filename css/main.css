@@ -3140,8 +3140,9 @@ html.cl-loaded .home-content__main {
 
 .image-container {
   display: flex;
+ flex-direction: row;
   gap: 20px;
-  width: 100%;
+  width: 90%;
 }
 
 .image-container img {
