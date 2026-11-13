@@ -3123,11 +3123,11 @@ html.cl-loaded .home-content__main {
     transition: all 0.3s ease-in-out;
 }
  
-.item-client:nth-child(4n) {
+.item-client:nth-child(2n) {
     border-style: none none solid none;
 }
  
-.item-client:nth-last-child(-n+4) {
+.item-client:nth-last-child(-n+2) {
     border-bottom-style: none;
 }
  
